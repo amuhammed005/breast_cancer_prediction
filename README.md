@@ -162,4 +162,4 @@ Step 11 compares the classifier ranking with the original clinical dataset. To r
 
 ## Acknowledgements
 
-The Wisconsin Diagnostic Breast Cancer dataset was created by Wolberg, Street and Mangasarian and is distributed through the UCI Machine Learning Repository and Kaggle. The methodology extends La Moglia and Almustafa (2025).
+The Wisconsin Diagnostic Breast Cancer dataset was created by Wolberg, Street and Mangasarian and is distributed through the UCI Machine Learning Repository and Kaggle. The methodology extends La Moglia and Almustafa (2025). Paper Link: https://www.sciencedirect.com/science/article/pii/S2666521224000607
